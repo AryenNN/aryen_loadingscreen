@@ -1,2 +1,5 @@
-# aryen_loadingscreen
-Fivem Sunucuları için kendi yazmış olduğum Yükleme Ekranı . ( Fivem-Turk.com)
+# loadingscreen
+Fivem Sunucuları İçin Yükleme ekranı Script 
+Bu script A'dan Z'ye kadar AryenN Tarafından Yazılmıştır .
+Fivem-Turk.com
+AryenN#0005
